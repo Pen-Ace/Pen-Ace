@@ -15,6 +15,21 @@
 - 📟 Flipper Zero + hacking gadgets 
 - 🧠 Mission: Learn. Hack. Share. Repeat.
 
+## 📺 Latest Videos
+
+<a href="https://www.youtube.com/watch?v=gvOPFY13nKc" target="_blank">
+  <img align="center" width="400" src="https://img.youtube.com/vi/gvOPFY13nKc/maxresdefault.jpg" alt="Sliver C2 Framework Review" />
+</a>  
+<b>🎯 Sliver C2 Framework – Review & Recon Demo</b><br>
+<sub>💬 <i>Full walkthrough of Sliver C2 — a powerful open-source post-exploitation and red teaming tool.</i></sub>
+
+---
+
+<a href="https://www.youtube.com/watch?v=NAGuFLUjM0o" target="_blank">
+  <img align="center" width="400" src="https://img.youtube.com/vi/NAGuFLUjM0o/maxresdefault.jpg" alt="Flipper Zero Sub-GHz Guide" />
+</a>  
+<b>📡 Flipper Zero – Guide to Sub-GHz</b><br>
+<sub>💬 <i>Master Sub-GHz hijinks with Flipper Zero: cloning, jamming, and scanning devices like a boss.</i></sub>
 ---
 
 ## ⚙️ Tech Arsenal
